@@ -11,8 +11,8 @@
 
 ## 👨‍💻 About Me
 
-- 🎓 B.Tech ECE Student @ MITS, Gwalior (2022-2026)
-- 🔭 I’m currently working on **AI-powered web apps** and **scalable backend systems**
+- 🎓 B.Tech ECE Student @ MITS, Gwalior (2022–2026)
+- 🔭 Currently building **AI-powered web apps** and **scalable backend systems**
 - 🌱 Exploring **Cloud, Docker, Kafka, Redis, Zustand, Redux Toolkit**
 - 🧠 Learning **Generative AI**, LangChain, OpenAI APIs, LLM integration, VectorDBs, RAG pipelines
 - 🎯 Goal: Build meaningful, production-grade, accessible applications that help people
@@ -33,16 +33,12 @@
 
 ## 🧰 Tech Stack
 
-## 🛠️ Tech Stack
-
 ### 🚀 Programming Languages
 ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-14354C?style=flat&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
-
----
 
 ### 🎨 Frontend Development
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
@@ -55,16 +51,12 @@
 ![Zustand](https://img.shields.io/badge/Zustand-000000?style=flat&logo=react&logoColor=white)
 ![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=flat&logo=greensock&logoColor=white)
 
----
-
 ### 🧠 GenAI & AI Tools
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-blueviolet?style=flat)
 ![LLM](https://img.shields.io/badge/LLM-202020?style=flat&logo=fastapi&logoColor=white)
 ![VectorDB](https://img.shields.io/badge/Vector%20DB-orange?style=flat)
 ![RAG](https://img.shields.io/badge/RAG-00897B?style=flat)
-
----
 
 ### 🔧 Backend & DevOps
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
@@ -73,16 +65,12 @@
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
 ![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat&logo=apachekafka&logoColor=white)
 
----
-
-### ☁️ DevOps & Cloud Deployment
+### ☁️ Cloud & DevOps
 ![AWS EC2](https://img.shields.io/badge/AWS_EC2-FF9900?style=flat&logo=amazonaws&logoColor=white)
 ![Load Balancer](https://img.shields.io/badge/Load%20Balancer-blue?style=flat&logo=cloudflare&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
-
----
 
 ### 🗄️ Databases & ORMs
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
@@ -91,21 +79,18 @@
 ![Drizzle ORM](https://img.shields.io/badge/Drizzle-202020?style=flat&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat&logo=prisma&logoColor=white)
 
----
-
-### 🧑‍🎨 Design & Team Collaboration
+### 🎨 Design & Collaboration
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
 ![Trello](https://img.shields.io/badge/Trello-0052CC?style=flat&logo=trello&logoColor=white)
 ![Slack](https://img.shields.io/badge/Slack-4A154B?style=flat&logo=slack&logoColor=white)
 
-
 ---
 
-## 📈 GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Shubhamdas27&show_icons=true&theme=tokyonight" alt="Shubham Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shubham-das07&theme=dark&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=Shubhamdas27&theme=tokyonight" alt="GitHub Streak"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shubhamdas27&layout=compact&theme=tokyonight" alt="Top Languages"/>
 </p>
 
@@ -122,9 +107,9 @@
 
 ## 🚀 Featured Projects
 
-- 🎯 **Railway Madad AI Redesign**: LLM chatbot, MongoDB, Tailwind, Next.js [→](https://github.com/your-username/project-b)
-- 🌐 **Enigma Fest Website**: Responsive portal for event registrations [→](https://enigmamits.tech/)
-- 💼 **My Portfolio**: Modern personal portfolio site [→](https://sih-lyart-five.vercel.app/)
+- 🎯 [**Railway Madad AI Redesign**](https://github.com/Shubhamdas27/railway-madad-ai) – LLM chatbot, MongoDB, Tailwind, Next.js
+- 🌐 [**Enigma Fest Website**](https://enigmamits.tech/) – Responsive portal for event registrations
+- 💼 [**My Portfolio**](https://sih-lyart-five.vercel.app/) – Modern personal portfolio site
 
 ---
 
@@ -134,6 +119,5 @@
 
 ---
 
-<!-- GIF (optional) -->
+<!-- Optional GIF -->
 <!-- ![Coding GIF](https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif) -->
-
