@@ -11,12 +11,12 @@
 
 ## 👨‍💻 About Me
 
-- 🎓 B.Tech ECE Student @ MITS, Gwalior (2022–2026)
-- 🔭 Currently building **AI-powered web apps** and **scalable backend systems**
-- 🌱 Exploring **Cloud, Docker, Kafka, Redis, Zustand, Redux Toolkit**
-- 🧠 Learning **Generative AI**, LangChain, OpenAI APIs, LLM integration, VectorDBs, RAG pipelines
-- 🎯 Goal: Build meaningful, production-grade, accessible applications that help people
-- 🧩 Fun Fact: I live for food 🍕 and lo-fi beats 🎧
+- 🎓 B.Tech ECE Student @ MITS, Gwalior (2022–2026)  
+- 🔭 Currently building **AI-powered web apps** and **scalable backend systems**  
+- 🌱 Exploring **Cloud, Docker, Kafka, Redis, Zustand, Redux Toolkit**  
+- 🧠 Learning **Generative AI**, LangChain, OpenAI APIs, LLM integration, VectorDBs, RAG pipelines  
+- 🎯 Goal: Build meaningful, production-grade, accessible applications that help people  
+- 🧩 Fun Fact: I live for food 🍕 and lo-fi beats 🎧  
 
 ---
 
@@ -89,35 +89,19 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Shubhamdas27/github-stats-updated/main/github_stats_updated.png" alt="Shubham Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Shubhamdas27&show_icons=true&theme=tokyonight&custom_title=Shubham's%20GitHub%20Stats&count_private=true" alt="Shubham Stats" />
   <img src="https://streak-stats.demolab.com/?user=Shubhamdas27&theme=tokyonight" alt="GitHub Streak"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shubhamdas27&layout=compact&theme=tokyonight" alt="Top Languages"/>
 </p>
 
 ---
 
-## 🔥 GitHub Contribution Stats
-
-- 🧮 **Total Contributions:** 2,666+
-- 🔥 **Longest Streak:** 42 days
-- 📅 **Current Streak:** 0 days
-- 🗓️ **GitHub Since:** Oct 19, 2021
-
----
-
 ## 🚀 Featured Projects
 
-- 🎯 [**Railway Madad AI Redesign**](https://github.com/Shubhamdas27/railway-madad-ai) – LLM chatbot, MongoDB, Tailwind, Next.js
-- 🌐 [**Enigma Fest Website**](https://enigmamits.tech/) – Responsive portal for event registrations
-- 💼 [**My Portfolio**](https://sih-lyart-five.vercel.app/) – Modern personal portfolio site
+- 🎯 [**Railway Madad AI Redesign**](https://github.com/Shubhamdas27/railway-madad-ai) – LLM chatbot, MongoDB, Tailwind, Next.js  
+- 🌐 [**Enigma Fest Website**](https://enigmamits.tech/) – Responsive portal for event registrations  
+- 💼 [**My Portfolio**](https://sih-lyart-five.vercel.app/) – Modern personal portfolio site  
 
 ---
 
 ## 🏁 Let's Collaborate
-
-> "If you're working on cool tech or open source, hit me up. I love collaborating!"
-
----
-
-<!-- Optional GIF -->
-<!-- ![Coding GIF](https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif) -->
