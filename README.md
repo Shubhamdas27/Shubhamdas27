@@ -17,7 +17,7 @@
   <a href="https://leetcode.com/Shubhamdas27/">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/>
   </a>
-  <a href="https://sih-lyart-five.vercel.app/">
+  <a href="https://shubhamdas27.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
   </a>
 </p>
