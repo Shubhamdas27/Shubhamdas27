@@ -146,40 +146,154 @@ const shubham = {
 ## 🚀 Featured Projects
 
 <div align="center">
+<table>
+<tr>
+<td width="50%" valign="top">
 
-<a href="https://github.com/Shubhamdas27/sevadan">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Shubhamdas27&repo=sevadan&theme=tokyonight&hide_border=true&bg_color=0D1117" />
-</a>
-<a href="https://github.com/Shubhamdas27/mavryk">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Shubhamdas27&repo=mavryk&theme=tokyonight&hide_border=true&bg_color=0D1117" />
-</a>
+### 🏥 [Sevadan](https://github.com/Shubhamdas27/sevadan)
 
-<a href="https://github.com/Shubhamdas27/autofill-ai">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Shubhamdas27&repo=autofill-ai&theme=tokyonight&hide_border=true&bg_color=0D1117" />
-</a>
-<a href="https://github.com/Shubhamdas27/eways-services">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Shubhamdas27&repo=eways-services&theme=tokyonight&hide_border=true&bg_color=0D1117" />
-</a>
+**Centralized NGO Management Platform**
 
-<a href="https://github.com/Shubhamdas27/fizz">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Shubhamdas27&repo=fizz&theme=tokyonight&hide_border=true&bg_color=0D1117" />
-</a>
-<a href="https://enigmamits.tech/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Shubhamdas27&repo=enigma-fest&theme=tokyonight&hide_border=true&bg_color=0D1117" />
-</a>
+A comprehensive platform for managing NGO operations, volunteer coordination, donation tracking, and beneficiary management.
 
-<br><br>
+**Tech Stack:**
+- React & Redux
+- Node.js & Express
+- MongoDB
+- TailwindCSS
 
-### 💼 Project Highlights
+**Features:**
+- ✅ Volunteer Management
+- ✅ Donation Tracking
+- ✅ Beneficiary Portal
+- ✅ Analytics Dashboard
 
-| Project | Description | Tech Stack |
-|---------|-------------|------------|
-| 🏥 **[Sevadan](https://github.com/Shubhamdas27/sevadan)** | Centralized NGO Management Platform with volunteer coordination & donation tracking | React • Node.js • MongoDB • Redux |
-| 🎨 **[Mavryk](https://github.com/Shubhamdas27/mavryk)** | Modern creative agency website with smooth animations | Next.js • TypeScript • GSAP • Framer Motion |
-| 🤖 **[Autofill.AI](https://github.com/Shubhamdas27/autofill-ai)** | AI-powered intelligent form automation system | React • Python • FastAPI • OpenAI API |
-| 🏢 **[Eways Services](https://github.com/Shubhamdas27/eways-services)** | Corporate business website with service showcase | Next.js • TailwindCSS • MongoDB • EmailJS |
-| 🥤 **[Fizz](https://github.com/Shubhamdas27/fizz)** | Full-stack beverage e-commerce with payment gateway | React • Node.js • MongoDB • Stripe |
-| 🌐 **[Enigma Fest](https://enigmamits.tech/)** | Complete event management portal for college fest | React • Node.js • Express • MongoDB |
+[🔗 View Project](https://github.com/Shubhamdas27/sevadan)
+
+</td>
+<td width="50%" valign="top">
+
+### 🎨 [Mavryk](https://github.com/Shubhamdas27/mavryk)
+
+**Modern Creative Agency Website**
+
+Stunning landing page with smooth animations and interactive elements for a creative agency portfolio.
+
+**Tech Stack:**
+- Next.js
+- TypeScript
+- TailwindCSS
+- GSAP & Framer Motion
+
+**Features:**
+- ✅ Smooth Animations
+- ✅ Interactive UI
+- ✅ Responsive Design
+- ✅ SEO Optimized
+
+[🔗 View Project](https://github.com/Shubhamdas27/mavryk)
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### 🤖 [Autofill.AI](https://github.com/Shubhamdas27/autofill-ai)
+
+**Intelligent Form Automation**
+
+AI-powered form filling solution using machine learning and natural language processing.
+
+**Tech Stack:**
+- React
+- Python & FastAPI
+- OpenAI API
+- PostgreSQL
+
+**Features:**
+- ✅ Smart Form Detection
+- ✅ AI-Powered Autofill
+- ✅ Data Encryption
+- ✅ Multi-form Support
+
+[🔗 View Project](https://github.com/Shubhamdas27/autofill-ai)
+
+</td>
+<td width="50%" valign="top">
+
+### 🏢 [Eways Services](https://github.com/Shubhamdas27/eways-services)
+
+**Corporate Business Website**
+
+Professional company website with service showcase and contact management system.
+
+**Tech Stack:**
+- Next.js
+- TailwindCSS
+- MongoDB
+- EmailJS
+
+**Features:**
+- ✅ Service Showcase
+- ✅ Contact Management
+- ✅ Admin Dashboard
+- ✅ Email Integration
+
+[🔗 View Project](https://github.com/Shubhamdas27/eways-services)
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### 🥤 [Fizz](https://github.com/Shubhamdas27/fizz)
+
+**Feel It, Drink It - E-commerce Platform**
+
+Full-stack beverage e-commerce platform with cart, payment integration, and order management.
+
+**Tech Stack:**
+- React & Redux Toolkit
+- Node.js & Express
+- MongoDB
+- Stripe Payment
+
+**Features:**
+- ✅ Shopping Cart
+- ✅ Payment Gateway
+- ✅ Order Tracking
+- ✅ User Dashboard
+
+[🔗 View Project](https://github.com/Shubhamdas27/fizz)
+
+</td>
+<td width="50%" valign="top">
+
+### 🌐 [Enigma Fest](https://enigmamits.tech/)
+
+**Complete Event Management Portal**
+
+Responsive platform for event registrations, schedules, and live updates for college fest.
+
+**Tech Stack:**
+- React
+- Node.js & Express
+- MongoDB
+- TailwindCSS
+
+**Features:**
+- ✅ Event Registration
+- ✅ Live Updates
+- ✅ Schedule Management
+- ✅ Team Portal
+
+[🔗 View Live Site](https://enigmamits.tech/)
+
+</td>
+</tr>
+</table>
 
 <p align="center">
   <a href="https://github.com/Shubhamdas27?tab=repositories">
