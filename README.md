@@ -74,46 +74,46 @@ const shubham = {
 <tr>
 <td width="50%">
 
-**🏥 [Sevadan](https://github.com/Shubhamdas27/sevadan)** — NGO Management Platform
-> Volunteer coordination, donation tracking, beneficiary portal & analytics dashboard.
+**🤖 [Auralis AI](https://github.com/Shubhamdas27/Auralis-AI)** — AI Business Automation
+> Intelligent automation & sophisticated chatbots to streamline business workflows.
 >
-> `React` `Redux` `Node.js` `MongoDB`
+> `TypeScript` `OpenAI` `LangChain` `Node.js`
 
 </td>
 <td width="50%">
 
-**🎨 [Mavryk](https://github.com/Shubhamdas27/mavryk)** — Creative Agency Website
-> Smooth GSAP animations, interactive elements & responsive design.
+**🏥 [SevaDaan](https://github.com/Shubhamdas27/SevaDaan)** — NGO Management Platform
+> Connecting NGOs, volunteers & donors — collaboration for social causes.
 >
-> `Next.js` `TypeScript` `Tailwind` `Framer Motion`
+> `TypeScript` `React` `Node.js` `MongoDB`
 
 </td>
 </tr>
 <tr>
 <td width="50%">
 
-**🤖 [Autofill.AI](https://github.com/Shubhamdas27/autofill-ai)** — Intelligent Form Automation
+**🤖 [Autofill.AI](https://github.com/Shubhamdas27/Autofill-Ai)** — Intelligent Form Automation
 > AI-powered form filling with smart detection, NLP & data encryption.
 >
-> `React` `FastAPI` `OpenAI API` `PostgreSQL`
+> `JavaScript` `React` `OpenAI API` `PostgreSQL`
 
 </td>
+<td width="50%">
+
+**💼 [GIGFLOW](https://github.com/Shubhamdas27/GIGFLOW)** — HR Management Platform
+> Employee directory, job postings, salary management & performance reviews.
+>
+> `TypeScript` `React` `TailwindCSS`
+
+</td>
+</tr>
+<tr>
 <td width="50%">
 
 **🥤 [Fizz](https://github.com/Shubhamdas27/fizz)** — Beverage E-commerce
 > Full-stack platform with cart, Stripe payments & order tracking.
 >
 > `React` `Redux Toolkit` `Express` `Stripe`
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-**🏢 [Eways Services](https://github.com/Shubhamdas27/eways-services)** — Corporate Website
-> Service showcase, contact management & admin dashboard with email integration.
->
-> `Next.js` `Tailwind` `MongoDB` `EmailJS`
 
 </td>
 <td width="50%">
