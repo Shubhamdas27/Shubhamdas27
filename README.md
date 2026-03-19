@@ -33,13 +33,22 @@ const shubham = {
     location:  "Bhopal, India 🇮🇳",
     education: "B.Tech ECE @ MITS Gwalior",
     role:      "Full Stack Developer",
-    learning: [
+    experience: {
+        frontend: "React, Next.js, TypeScript, TailwindCSS",
+        backend:  "Node.js, Express, Python, FastAPI",
+        database: "MongoDB, PostgreSQL, Redis",
+        ai:       "OpenAI, LangChain, RAG, Vector DBs"
+    },
+    currentlyLearning: [
         "Generative AI & LLMs",
         "RAG Pipelines & Vector DBs",
         "Docker & Kubernetes",
-        "Apache Kafka"
+        "Apache Kafka",
+        "System Design"
     ],
-    passion: "Building impactful AI solutions",
+    currentlyBuilding: "AI-powered automation tools @ AnythingAI Labs",
+    passion: "Building products that solve real problems with AI",
+    funFact: "Powered by 🍕 and 🎧 lo-fi beats",
     openTo:  ["Collaborations", "Open Source", "Freelance"]
 };
 ```
