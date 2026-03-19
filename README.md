@@ -125,9 +125,9 @@ const shubham = {
 <h3 align="center">🤖 Auralis AI</h3>
 <p align="center"><i>AI-Powered Business Automation</i></p>
 
-<p>Intelligent automation & sophisticated chatbots that streamline business workflows using cutting-edge AI.</p>
+<p align="center">Intelligent automation & sophisticated chatbots that streamline business workflows using cutting-edge AI.</p>
 
-<p>
+<p align="center">
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
 <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white"/>
 <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=chainlink&logoColor=white"/>
@@ -144,9 +144,9 @@ const shubham = {
 <h3 align="center">🏥 SevaDaan</h3>
 <p align="center"><i>NGO Management Platform</i></p>
 
-<p>Comprehensive digital platform connecting NGOs, volunteers & donors for seamless collaboration on social causes.</p>
+<p align="center">Comprehensive digital platform connecting NGOs, volunteers & donors for seamless collaboration on social causes.</p>
 
-<p>
+<p align="center">
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
 <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
@@ -165,9 +165,9 @@ const shubham = {
 <h3 align="center">🧠 Autofill.AI</h3>
 <p align="center"><i>Intelligent Form Automation</i></p>
 
-<p>AI-powered form filling solution with smart detection, natural language processing & encrypted data handling.</p>
+<p align="center">AI-powered form filling solution with smart detection, natural language processing & encrypted data handling.</p>
 
-<p>
+<p align="center">
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
 <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white"/>
@@ -184,9 +184,9 @@ const shubham = {
 <h3 align="center">💼 GIGFLOW</h3>
 <p align="center"><i>HR Management Platform</i></p>
 
-<p>Responsive HR management UI with employee directory, job postings, salary management & performance reviews.</p>
+<p align="center">Responsive HR management UI with employee directory, job postings, salary management & performance reviews.</p>
 
-<p>
+<p align="center">
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
 <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white"/>
@@ -204,9 +204,9 @@ const shubham = {
 <h3 align="center">🥤 Fizz</h3>
 <p align="center"><i>Beverage E-commerce Platform</i></p>
 
-<p>Full-stack e-commerce with shopping cart, Stripe payment integration, order tracking & user dashboard.</p>
+<p align="center">Full-stack e-commerce with shopping cart, Stripe payment integration, order tracking & user dashboard.</p>
 
-<p>
+<p align="center">
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
 <img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white"/>
 <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white"/>
@@ -223,9 +223,9 @@ const shubham = {
 <h3 align="center">🌐 Enigma Fest</h3>
 <p align="center"><i>Event Management Portal</i></p>
 
-<p>College fest platform with event registrations, live updates, schedule management & team coordination.</p>
+<p align="center">College fest platform with event registrations, live updates, schedule management & team coordination.</p>
 
-<p>
+<p align="center">
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
 <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white"/>
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
