@@ -1,205 +1,206 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b2e,100:0d1117&height=180&section=header&text=Shubham%20Das&fontSize=42&fontAlignY=35&animation=twinkling&fontColor=58a6ff&desc=Full%20Stack%20Developer%20%7C%20GenAI%20Explorer%20%7C%20DevOps%20Enthusiast&descSize=16&descAlignY=52&descColor=8b949e" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=1a1b26&height=120&section=header&text=Shubham%20Das&fontSize=36&fontAlignY=50&fontColor=7aa2f7&animation=fadeIn" width="100%"/>
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58a6ff&center=true&vCenter=true&width=500&height=40&lines=Building+AI-Powered+Solutions+%F0%9F%9A%80;Open+Source+Contributor+%F0%9F%92%A1;Turning+Ideas+Into+Products+%E2%9A%A1" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=300&size=18&duration=4000&pause=2000&color=7dcfff&center=true&vCenter=true&width=460&height=30&lines=Full+Stack+Developer;GenAI+Explorer;Building+Thoughtful+Software" alt="Typing SVG" />
 
 <br/>
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Shubhamdas27)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shubhamdas27/)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:work.shubhamdas@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://shubhamdas27.vercel.app/)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/Shubhamdas27/)
-
-<br/>
-
-<img src="https://komarev.com/ghpvc/?username=Shubhamdas27&label=Profile%20Views&color=58a6ff&style=flat-square" alt="Profile views"/>
-&nbsp;
-<img src="https://img.shields.io/github/followers/Shubhamdas27?label=Followers&style=flat-square&color=58a6ff" alt="followers"/>
-&nbsp;
-<img src="https://img.shields.io/github/stars/Shubhamdas27?label=Stars&style=flat-square&color=58a6ff" alt="stars"/>
+[![GitHub](https://img.shields.io/badge/github-1a1b26?style=flat&logo=github&logoColor=7aa2f7)](https://github.com/Shubhamdas27)&nbsp;&nbsp;
+[![LinkedIn](https://img.shields.io/badge/linkedin-1a1b26?style=flat&logo=linkedin&logoColor=7aa2f7)](https://www.linkedin.com/in/shubhamdas27/)&nbsp;&nbsp;
+[![Gmail](https://img.shields.io/badge/email-1a1b26?style=flat&logo=gmail&logoColor=7aa2f7)](mailto:work.shubhamdas@gmail.com)&nbsp;&nbsp;
+[![Portfolio](https://img.shields.io/badge/portfolio-1a1b26?style=flat&logo=google-chrome&logoColor=7aa2f7)](https://shubhamdas27.vercel.app/)&nbsp;&nbsp;
+[![LeetCode](https://img.shields.io/badge/leetcode-1a1b26?style=flat&logo=leetcode&logoColor=7aa2f7)](https://leetcode.com/Shubhamdas27/)
 
 </div>
 
----
+<br/>
 
-<img align="right" alt="Coding" width="320" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+<img align="right" alt="Coding" width="300" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
-### 👨‍💻 About Me
+### About
 
-```javascript
+```ts
 const shubham = {
-    location:  "Bhopal, India 🇮🇳",
-    education: "B.Tech ECE @ MITS Gwalior",
-    role:      "Full Stack Developer",
-    experience: {
-        frontend: "React, Next.js, TypeScript, TailwindCSS",
-        backend:  "Node.js, Express, Python, FastAPI",
-        database: "MongoDB, PostgreSQL, Redis",
-        ai:       "OpenAI, LangChain, RAG, Vector DBs"
-    },
-    currentlyLearning: [
-        "Generative AI & LLMs",
-        "RAG Pipelines & Vector DBs",
-        "Docker & Kubernetes",
-        "Apache Kafka",
-        "System Design"
-    ],
-    currentlyBuilding: "AI-powered automation tools @ AnythingAI Labs",
-    passion: "Building products that solve real problems with AI",
-    funFact: "Powered by 🍕 and 🎧 lo-fi beats",
-    openTo:  ["Collaborations", "Open Source", "Freelance"]
+  location:  "Bhopal, India",
+  education: "B.Tech ECE @ MITS Gwalior",
+  role:      "Full Stack Developer",
+  stack: {
+    frontend: ["React", "Next.js", "TypeScript", "Tailwind"],
+    backend:  ["Node.js", "Express", "Python", "FastAPI"],
+    database: ["MongoDB", "PostgreSQL", "Redis"],
+    ai:       ["OpenAI", "LangChain", "RAG", "Vector DBs"],
+    devops:   ["Docker", "AWS", "Kafka", "CI/CD"]
+  },
+  building: "AI-powered tools @ AnythingAI Labs",
+  learning: ["LLMs", "System Design", "Kubernetes"],
+  openTo:   ["Collaborations", "Open Source", "Freelance"]
 };
 ```
 
 <br clear="right"/>
 
----
+<br/>
 
-### 🎯 What I Do
+### What I Work With
+
+<div align="center">
 
 <table>
 <tr>
 <td align="center" width="33%">
-<img src="https://img.icons8.com/fluency/96/000000/code.png" width="48"/>
-<br/><b>Full Stack Dev</b>
-<br/><sub>Scalable web apps with React, Next.js, Node.js & modern frameworks</sub>
+<br/>
+<b>Languages</b>
+<br/><br/>
+<img src="https://skillicons.dev/icons?i=js,ts,python,cpp,c&theme=dark" />
+<br/><br/>
 </td>
 <td align="center" width="33%">
-<img src="https://img.icons8.com/fluency/96/000000/artificial-intelligence.png" width="48"/>
-<br/><b>AI Integration</b>
-<br/><sub>Intelligent systems with LLMs, RAG pipelines & vector databases</sub>
+<br/>
+<b>Frontend</b>
+<br/><br/>
+<img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind,html,css&theme=dark" />
+<br/><br/>
 </td>
 <td align="center" width="33%">
-<img src="https://img.icons8.com/fluency/96/000000/cloud.png" width="48"/>
-<br/><b>Cloud & DevOps</b>
-<br/><sub>Docker, AWS, CI/CD & production deployments</sub>
+<br/>
+<b>Backend & DB</b>
+<br/><br/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,mongodb,postgres,redis&theme=dark" />
+<br/><br/>
+</td>
+</tr>
+<tr>
+<td align="center" width="33%">
+<br/>
+<b>AI & ML</b>
+<br/><br/>
+<img src="https://skillicons.dev/icons?i=tensorflow&theme=dark" />
+&nbsp;
+![OpenAI](https://img.shields.io/badge/OpenAI-1a1b26?style=flat-square&logo=openai&logoColor=7aa2f7)
+![LangChain](https://img.shields.io/badge/LangChain-1a1b26?style=flat-square&logo=chainlink&logoColor=7aa2f7)
+<br/><br/>
+</td>
+<td align="center" width="33%">
+<br/>
+<b>DevOps & Cloud</b>
+<br/><br/>
+<img src="https://skillicons.dev/icons?i=docker,aws,vercel,kafka,git,githubactions&theme=dark" />
+<br/><br/>
+</td>
+<td align="center" width="33%">
+<br/>
+<b>Tools</b>
+<br/><br/>
+<img src="https://skillicons.dev/icons?i=figma,postman,vscode,prisma&theme=dark" />
+<br/><br/>
 </td>
 </tr>
 </table>
 
----
-
-### 🛠️ Tech Stack
-
-<div align="center">
-
-| | Technologies |
-|:-:|:--|
-| **💻 Languages** | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white) ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black) |
-| **🎨 Frontend** | ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white) ![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white) ![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white) ![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=flat-square&logo=greensock&logoColor=white) ![Framer](https://img.shields.io/badge/Framer-0055FF?style=flat-square&logo=framer&logoColor=white) |
-| **⚙️ Backend** | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) |
-| **🗄️ Database** | ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white) |
-| **🤖 AI & ML** | ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white) ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=chainlink&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) ![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=flat-square&logo=pinecone&logoColor=white) |
-| **☁️ DevOps** | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white) ![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white) |
-| **🎨 Tools** | ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white) ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white) |
-
 </div>
-
----
-
-### 🚀 Featured Projects
-
-<table>
-<tr>
-<td width="50%">
-
-**🤖 [Auralis AI](https://github.com/Shubhamdas27/Auralis-AI)**
-> Intelligent automation & sophisticated chatbots to streamline business workflows.
-
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=chainlink&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-
-</td>
-<td width="50%">
-
-**🏥 [SevaDaan](https://github.com/Shubhamdas27/SevaDaan)**
-> Connecting NGOs, volunteers & donors — collaboration for social causes.
-
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-**🧠 [Autofill.AI](https://github.com/Shubhamdas27/Autofill-Ai)**
-> AI-powered form filling with smart detection, NLP & data encryption.
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-
-</td>
-<td width="50%">
-
-**💼 [GIGFLOW](https://github.com/Shubhamdas27/GIGFLOW)**
-> Employee directory, job postings, salary management & performance reviews.
-
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-**🥤 [Fizz](https://github.com/Shubhamdas27/fizz)**
-> Full-stack beverage e-commerce with cart, Stripe payments & order tracking.
-
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
-![Stripe](https://img.shields.io/badge/Stripe-008CDD?style=flat-square&logo=stripe&logoColor=white)
-
-</td>
-<td width="50%">
-
-**🌐 [Enigma Fest](https://enigmamits.tech/)**
-> Event registrations, live updates, schedule management & team portal.
-
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
-
-</td>
-</tr>
-</table>
-
-<div align="center">
-
-[![View All Projects](https://img.shields.io/badge/View%20All%20Projects%20→-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Shubhamdas27?tab=repositories)
-
-</div>
-
----
-
-### 📊 GitHub Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Shubhamdas27&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=58a6ff&line=6366F1&point=FFFFFF&area=true&area_color=58a6ff" alt="Contribution Graph"/>
 
 <br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=Shubhamdas27&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies"/>
+### Projects
 
-</div>
+<table>
+<tr>
+<td width="50%">
 
----
+**[Auralis AI](https://github.com/Shubhamdas27/Auralis-AI)** &mdash; AI Business Automation
+<br/><sub>Intelligent automation & chatbots to streamline business workflows</sub>
+<br/><br/>
+![TypeScript](https://img.shields.io/badge/TypeScript-1a1b26?style=flat-square&logo=typescript&logoColor=7aa2f7)
+![OpenAI](https://img.shields.io/badge/OpenAI-1a1b26?style=flat-square&logo=openai&logoColor=7aa2f7)
+![LangChain](https://img.shields.io/badge/LangChain-1a1b26?style=flat-square&logo=chainlink&logoColor=7aa2f7)
+![Node.js](https://img.shields.io/badge/Node.js-1a1b26?style=flat-square&logo=nodedotjs&logoColor=7aa2f7)
+
+</td>
+<td width="50%">
+
+**[SevaDaan](https://github.com/Shubhamdas27/SevaDaan)** &mdash; NGO Platform
+<br/><sub>Connecting NGOs, volunteers & donors for social causes</sub>
+<br/><br/>
+![TypeScript](https://img.shields.io/badge/TypeScript-1a1b26?style=flat-square&logo=typescript&logoColor=7aa2f7)
+![React](https://img.shields.io/badge/React-1a1b26?style=flat-square&logo=react&logoColor=7aa2f7)
+![Node.js](https://img.shields.io/badge/Node.js-1a1b26?style=flat-square&logo=nodedotjs&logoColor=7aa2f7)
+![MongoDB](https://img.shields.io/badge/MongoDB-1a1b26?style=flat-square&logo=mongodb&logoColor=7aa2f7)
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+**[Autofill.AI](https://github.com/Shubhamdas27/Autofill-Ai)** &mdash; Form Automation
+<br/><sub>AI-powered form filling with smart detection & NLP</sub>
+<br/><br/>
+![JavaScript](https://img.shields.io/badge/JavaScript-1a1b26?style=flat-square&logo=javascript&logoColor=7aa2f7)
+![React](https://img.shields.io/badge/React-1a1b26?style=flat-square&logo=react&logoColor=7aa2f7)
+![OpenAI](https://img.shields.io/badge/OpenAI-1a1b26?style=flat-square&logo=openai&logoColor=7aa2f7)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-1a1b26?style=flat-square&logo=postgresql&logoColor=7aa2f7)
+
+</td>
+<td width="50%">
+
+**[GIGFLOW](https://github.com/Shubhamdas27/GIGFLOW)** &mdash; HR Management
+<br/><sub>Employee directory, job postings & salary management</sub>
+<br/><br/>
+![TypeScript](https://img.shields.io/badge/TypeScript-1a1b26?style=flat-square&logo=typescript&logoColor=7aa2f7)
+![React](https://img.shields.io/badge/React-1a1b26?style=flat-square&logo=react&logoColor=7aa2f7)
+![Tailwind](https://img.shields.io/badge/Tailwind-1a1b26?style=flat-square&logo=tailwind-css&logoColor=7aa2f7)
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+**[Fizz](https://github.com/Shubhamdas27/fizz)** &mdash; E-commerce Platform
+<br/><sub>Beverage store with cart, Stripe payments & order tracking</sub>
+<br/><br/>
+![React](https://img.shields.io/badge/React-1a1b26?style=flat-square&logo=react&logoColor=7aa2f7)
+![Redux](https://img.shields.io/badge/Redux-1a1b26?style=flat-square&logo=redux&logoColor=7aa2f7)
+![Express](https://img.shields.io/badge/Express-1a1b26?style=flat-square&logo=express&logoColor=7aa2f7)
+![Stripe](https://img.shields.io/badge/Stripe-1a1b26?style=flat-square&logo=stripe&logoColor=7aa2f7)
+
+</td>
+<td width="50%">
+
+**[Enigma Fest](https://enigmamits.tech/)** &mdash; Event Portal
+<br/><sub>Registrations, live updates & schedule management for college fest</sub>
+<br/><br/>
+![React](https://img.shields.io/badge/React-1a1b26?style=flat-square&logo=react&logoColor=7aa2f7)
+![Express](https://img.shields.io/badge/Express-1a1b26?style=flat-square&logo=express&logoColor=7aa2f7)
+![MongoDB](https://img.shields.io/badge/MongoDB-1a1b26?style=flat-square&logo=mongodb&logoColor=7aa2f7)
+![Tailwind](https://img.shields.io/badge/Tailwind-1a1b26?style=flat-square&logo=tailwind-css&logoColor=7aa2f7)
+
+</td>
+</tr>
+</table>
 
 <div align="center">
 
-<img src="https://spotify-github-profile.vercel.app/api/view?uid=31l4ydcs4kd2dujdxhko4qghqj7e&cover_image=true&theme=novatorem&show_offline=false&background_color=0d1117&interchange=false&bar_color=58a6ff&bar_color_cover=false" alt="Spotify"/>
+[![View All](https://img.shields.io/badge/all_repositories_→-1a1b26?style=flat-square&logo=github&logoColor=7aa2f7)](https://github.com/Shubhamdas27?tab=repositories)
+
+</div>
+
+<br/>
+
+### Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Shubhamdas27&theme=tokyo-night&hide_border=true&bg_color=00000000&color=7aa2f7&line=7aa2f7&point=7dcfff&area=true&area_color=7aa2f7" alt="Contribution Graph"/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=Shubhamdas27&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=12&margin-h=12" alt="Trophies"/>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img src="https://spotify-github-profile.vercel.app/api/view?uid=31l4ydcs4kd2dujdxhko4qghqj7e&cover_image=true&theme=novatorem&show_offline=false&background_color=1a1b26&interchange=false&bar_color=7aa2f7&bar_color_cover=false" alt="Spotify"/>
 
 <br/><br/>
 
@@ -207,15 +208,17 @@ const shubham = {
 
 <br/>
 
-### 🤝 Let's Connect
+<sub>
 
-<sub>Open for collaborations, open source contributions & freelance opportunities</sub>
+![views](https://komarev.com/ghpvc/?username=Shubhamdas27&color=7aa2f7&style=flat&label=views)&nbsp;&nbsp;
+![followers](https://img.shields.io/github/followers/Shubhamdas27?label=followers&style=flat&color=7aa2f7)
+
+</sub>
 
 <br/><br/>
 
-[![Email Me](https://img.shields.io/badge/Email%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:work.shubhamdas@gmail.com)
-[![Book a Call](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shubhamdas27/)
+<sub>Open for collaborations & opportunities &mdash; let's build something meaningful.</sub>
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b2e,100:0d1117&height=100&section=footer&animation=twinkling" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=1a1b26&height=4&section=footer" width="100%"/>
