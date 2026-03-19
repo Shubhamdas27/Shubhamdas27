@@ -1,8 +1,8 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Shubham%20Das&fontSize=42&fontAlignY=35&animation=twinkling&fontColor=FFFFFF&desc=Full%20Stack%20Developer%20%7C%20GenAI%20Explorer%20%7C%20DevOps%20Enthusiast&descSize=16&descAlignY=52&descColor=8b949e" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b2e,100:0d1117&height=180&section=header&text=Shubham%20Das&fontSize=42&fontAlignY=35&animation=twinkling&fontColor=58a6ff&desc=Full%20Stack%20Developer%20%7C%20GenAI%20Explorer%20%7C%20DevOps%20Enthusiast&descSize=16&descAlignY=52&descColor=8b949e" width="100%"/>
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=500&height=40&lines=Building+AI-Powered+Solutions+%F0%9F%9A%80;Open+Source+Contributor+%F0%9F%92%A1;Turning+Ideas+Into+Products+%E2%9A%A1" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58a6ff&center=true&vCenter=true&width=500&height=40&lines=Building+AI-Powered+Solutions+%F0%9F%9A%80;Open+Source+Contributor+%F0%9F%92%A1;Turning+Ideas+Into+Products+%E2%9A%A1" alt="Typing SVG" />
 
 <br/>
 
@@ -14,11 +14,11 @@
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=Shubhamdas27&label=Profile%20Views&color=6366F1&style=flat-square" alt="Profile views"/>
+<img src="https://komarev.com/ghpvc/?username=Shubhamdas27&label=Profile%20Views&color=58a6ff&style=flat-square" alt="Profile views"/>
 &nbsp;
-<img src="https://img.shields.io/github/followers/Shubhamdas27?label=Followers&style=flat-square&color=6366F1" alt="followers"/>
+<img src="https://img.shields.io/github/followers/Shubhamdas27?label=Followers&style=flat-square&color=58a6ff" alt="followers"/>
 &nbsp;
-<img src="https://img.shields.io/github/stars/Shubhamdas27?label=Stars&style=flat-square&color=6366F1" alt="stars"/>
+<img src="https://img.shields.io/github/stars/Shubhamdas27?label=Stars&style=flat-square&color=58a6ff" alt="stars"/>
 
 </div>
 
@@ -187,7 +187,7 @@ const shubham = {
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Shubhamdas27&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=6366F1&line=6366F1&point=FFFFFF&area=true&area_color=6366F1" alt="Contribution Graph"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Shubhamdas27&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=58a6ff&line=6366F1&point=FFFFFF&area=true&area_color=58a6ff" alt="Contribution Graph"/>
 
 <br/>
 
@@ -199,7 +199,7 @@ const shubham = {
 
 <div align="center">
 
-<img src="https://spotify-github-profile.vercel.app/api/view?uid=31l4ydcs4kd2dujdxhko4qghqj7e&cover_image=true&theme=novatorem&show_offline=false&background_color=0d1117&interchange=false&bar_color=6366f1&bar_color_cover=false" alt="Spotify"/>
+<img src="https://spotify-github-profile.vercel.app/api/view?uid=31l4ydcs4kd2dujdxhko4qghqj7e&cover_image=true&theme=novatorem&show_offline=false&background_color=0d1117&interchange=false&bar_color=58a6ff&bar_color_cover=false" alt="Spotify"/>
 
 <br/><br/>
 
@@ -218,4 +218,4 @@ const shubham = {
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&animation=twinkling" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b2e,100:0d1117&height=100&section=footer&animation=twinkling" width="100%"/>
